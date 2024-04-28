@@ -1,1 +1,1 @@
-# Airbnb
+In order to obtain insights into pricing differences, availability patterns, and location-based trends, this project will use MongoDB Atlas to analyze Airbnb data. It will also do data cleaning and preparation, construct interactive geospatial visualizations, and produce dynamic plots.
